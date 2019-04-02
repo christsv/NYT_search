@@ -1,0 +1,13 @@
+.jumbotron{
+    background: darkblue;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.btn-primary{
+    background: white;
+    color: black;
+}
